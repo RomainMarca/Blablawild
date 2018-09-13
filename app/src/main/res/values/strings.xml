@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Blablawild</string>
+    <string name="search_text">Search</string>
+    <string name="departure_and_name_is_empty">Departure and name is empty</string>
+</resources>
