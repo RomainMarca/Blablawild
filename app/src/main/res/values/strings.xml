@@ -2,4 +2,6 @@
     <string name="app_name">Blablawild</string>
     <string name="search_text">Search</string>
     <string name="departure_and_name_is_empty">Departure and name is empty</string>
+    <string name="birthday">05/01/87</string>
+    <string name="dateDMY">MM/dd/yy</string>
 </resources>
