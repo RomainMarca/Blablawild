@@ -6,6 +6,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
+import java.util.Date;
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
@@ -17,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
         btnChangeAct.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent goToItSearch = new Intent(MainActivity.this,ItinerarrySearchActivity.class);
+                Intent goToItSearch = new Intent(MainActivity.this, ItinerarrySearchActivity.class);
                 MainActivity.this.startActivity(goToItSearch);
             }
         });
