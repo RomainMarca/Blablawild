@@ -14,7 +14,7 @@
         android:layout_marginTop="16dp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        tools:text="date " />
+        tools:text="@string/date" />
 
     <TextView
         android:id="@+id/text_firstname"
@@ -27,7 +27,7 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/text_date"
-        tools:text="firstname" />
+        tools:text="@string/firstname" />
 
     <TextView
         android:id="@+id/text-lastname"
@@ -40,7 +40,7 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toEndOf="@+id/text_firstname"
         app:layout_constraintTop_toBottomOf="@+id/text_date"
-        tools:text="lastname " />
+        tools:text="@string/lastname" />
 
     <TextView
         android:id="@+id/text_price"
@@ -51,5 +51,5 @@
         android:layout_marginTop="16dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        tools:text="price " />
+        tools:text="@string/price" />
 </android.support.constraint.ConstraintLayout>

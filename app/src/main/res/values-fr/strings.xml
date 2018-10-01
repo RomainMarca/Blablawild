@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_text">Rechercher</string>
+    <string name="departure_and_name_is_empty">Départ et nom vides</string>
+    <string name="birthday">05/01/87</string>
+    <string name="dateDMY">dd/MM/yy</string>
+    <string name="lastname">Prénom</string>
+    <string name="firstname">"Nom "</string>
+    <string name="date">date</string>
+    <string name="price">prix</string>
+    <string name="search_an_initerary">Rechercher un itinéraire</string>
+    <string name="departure">Départ</string>
+    <string name="destination">Destination</string>
+    <string name="name">Nom</string>
+    <string name="date2">Date</string>
+    <string name="search">Rechercher</string>
+</resources>

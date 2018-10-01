@@ -1,7 +1,27 @@
 <resources>
-    <string name="app_name">Blablawild</string>
     <string name="search_text">Search</string>
     <string name="departure_and_name_is_empty">Departure and name is empty</string>
     <string name="birthday">05/01/87</string>
     <string name="dateDMY">MM/dd/yy</string>
+    <string name="lastname">lastname</string>
+    <string name="firstname">firstname</string>
+    <string name="date">date</string>
+    <string name="price">price</string>
+    <string name="eric" translatable="false">Eric</string>
+    <string name="cartman" translatable="false">Cartman</string>
+    <string name="stan" translatable="false">Stan</string>
+    <string name="kenny" translatable="false">Kenny</string>
+    <string name="kyle" translatable="false">Kyle</string>
+    <string name="wendy" translatable="false">Wendy</string>
+    <string name="marsh" translatable="false">Marsh</string>
+    <string name="broflovski" translatable="false">Broflovski</string>
+    <string name="mccornick" translatable="false">McCormick</string>
+    <string name="testaburger" translatable="false">Testaburger</string>
+    <string name="blablawild" translatable="false">BlablaWild</string>
+    <string name="search_an_initerary">Search an initerary</string>
+    <string name="departure">Departure</string>
+    <string name="destination">Destination</string>
+    <string name="name">Name</string>
+    <string name="date2">Date</string>
+    <string name="search">Search</string>
 </resources>
